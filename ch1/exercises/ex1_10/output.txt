@@ -1,0 +1,3 @@
+0.38s   30539 https://godoc.org
+0.56s   55097 https://golang.org
+1.12s    4154 http://gopl.io
